@@ -48,6 +48,6 @@ Utilizar IA para converter um conceito jurídico em um protótipo tecnológico f
 ## 📸 Protótipo
 
 > **Nota:** Insira aqui os links das imagens geradas no Lovable.
-
+![LexFinance Dashboard]
 ---
 Desenvolvido por Mayra Carvalho - www.linkedin.com/in/mayra-maeb 🚀
